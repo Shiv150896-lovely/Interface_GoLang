@@ -73,6 +73,7 @@ func main() {
 	}
 
 	log.Println("Calculator finished.")
+	fmt.Println("completed")
 
 }
 
